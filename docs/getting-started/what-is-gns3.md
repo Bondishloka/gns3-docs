@@ -77,7 +77,7 @@ The lines between simulation and emulation blur a bit these days. You are now ab
 **Remember**: Don’t worry too much about the difference between simulation and emulation except for the following points:
 
 1. Dynamips is an older technology that emulates Cisco hardware. It uses real Cisco IOS images. It is good for basic CCNA type topologies, but has a number of limitations such as only supporting older Cisco IOS versions (12.X) which are also not supported or actively updated by Cisco.
-2. The recommended Cisco images to use with GNS3 are those from Cisco VIRL (IOSv, IOSvL2, IOS-XRv, ASAv). This images are supported and are actively updated by Cisco. The images support current releases of the Cisco IOS (15.X) and provide the best scale and user experience.
+2. The recommended Cisco images to use with GNS3 are those from Cisco VIRL (IOSv, IOSvL2, IOS-XRv, ASAv). These images are supported and are actively updated by Cisco. The images support current releases of the Cisco IOS (15.X) and provide the best scale and user experience.
 
 ## GNS3 Comparisons
 
@@ -125,7 +125,7 @@ Cisco Packet Tracer is an official Cisco product for Cisco Academy students that
 
 **Advantages:**
 - Easy to set up
-- Supports Cisco router, switch and PC simulations
+- Supports Cisco router, switch, and PC simulations
 - Sufficient for CCNA studies
 - Simulates multiple devices and protocols (routers, switches, wireless, RADIUS, etc...)
 - Free (requires registration at Cisco’s NetAcad website)
